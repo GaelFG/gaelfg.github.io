@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accueil on Gembasher</title>
+    <title>Home on Gembasher</title>
     <link>/</link>
-    <description>Recent content in Accueil on Gembasher</description>
+    <description>Recent content in Home on Gembasher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Création du site</title>
-      <link>/post/2017/09/12/ouverture-du-site/</link>
+      <title>Website opening</title>
+      <link>/post/2017/09/12/website-opening/</link>
       <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/09/12/ouverture-du-site/</guid>
-      <description>Le site est ouvert ! Il est encore loin de son aspect définitif.</description>
+      <guid>/post/2017/09/12/website-opening/</guid>
+      <description>With the upcoming start of the game public testing phase, it was time to create our online hub :)
+More informations about the game coming in the nexts weeks.</description>
     </item>
     
   </channel>
