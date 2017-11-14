@@ -3,7 +3,7 @@
   <channel>
       <title>Tags on Gembasher Studio </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>/en/tags/</link>
+    <link>www.gembasher.com/en/tags/</link>
     <language>fr</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Blog</title>
-      <link>/en/tags/blog/</link>
+      <link>www.gembasher.com/en/tags/blog/</link>
       <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
       
-      <guid>/en/tags/blog/</guid>
+      <guid>www.gembasher.com/en/tags/blog/</guid>
       <description></description>
     </item>
     
