@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Gembasher</title>
+      <title>Categories on Gembasher Studio </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>/categories/</link>
-    <description>Recent content in Categories on Gembasher</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
     
     
-    <item>
-      <title>News</title>
-      <link>/categories/news/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/news/</guid>
-      <description></description>
-    </item>
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
   </channel>
 </rss>
+

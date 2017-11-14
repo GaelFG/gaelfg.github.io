@@ -1,25 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Gembasher</title>
+      <title>Gembasher Studio on Gembasher Studio </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>/</link>
-    <description>Recent content in Home on Gembasher</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <language>fr</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    <updated>Mon, 13 Nov 2017 18:34:02 &#43;0000</updated>
     
     <item>
-      <title>Website opening</title>
-      <link>/post/2017/09/12/website-opening/</link>
-      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <title>Wardens of the Amber Cage</title>
+      <link>/post/wardens-of-the-amber-cage/</link>
+      <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
       
-      <guid>/post/2017/09/12/website-opening/</guid>
-      <description>With the upcoming start of the game public testing phase, it was time to create our online hub :)
-More informations about the game coming in the nexts weeks.</description>
+      <guid>/post/wardens-of-the-amber-cage/</guid>
+      <description>Gembasher studio est une entreprise de création de jeux vidéo se focalisant sur la réalité virtuelle. Nous sommes fiers de vous présenter notre projet de jeu en réalité virtuelle : ‘Wardens of the Amber Cage’.
+C&amp;rsquo;est un jeu d’action coopérative à la première personne. Vous y incarnez les gardiens d&amp;rsquo;une prison extra-dimensionnelle conçue pour retenir les pires fléaux de la réalité.
+Cette experience atteint son plein potentiel avec un casque de réalité virtuelle (actuellement Occulus Rift et HTC Vive) mais peut aussi s&amp;rsquo;appécier sur un écran classique, surtout accompagné.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>/about/</guid>
+      <description>En cours de rédaction &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>gembasher@protonmail.com
+En cours de rédaction &amp;hellip;</description>
     </item>
     
   </channel>
 </rss>
+
