@@ -3,7 +3,7 @@
   <channel>
       <title>Gembasher Studio on Gembasher Studio </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>www.gembasher.com/en/</link>
+    <link>/en/</link>
     <language>fr</language>
     
     
@@ -11,28 +11,28 @@
     
     <item>
       <title>Wardens of the Amber Cage</title>
-      <link>www.gembasher.com/en/post/wardens-of-the-amber-cage/</link>
+      <link>/en/post/wardens-of-the-amber-cage/</link>
       <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
       
-      <guid>www.gembasher.com/en/post/wardens-of-the-amber-cage/</guid>
+      <guid>/en/post/wardens-of-the-amber-cage/</guid>
       <description>English version currently unavailable.</description>
     </item>
     
     <item>
       <title></title>
-      <link>www.gembasher.com/en/about/</link>
+      <link>/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>www.gembasher.com/en/about/</guid>
+      <guid>/en/about/</guid>
       <description>Work in progress &amp;hellip;</description>
     </item>
     
     <item>
       <title></title>
-      <link>www.gembasher.com/en/contact/</link>
+      <link>/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>www.gembasher.com/en/contact/</guid>
+      <guid>/en/contact/</guid>
       <description>gembasher@protonmail.com
 Work in progress &amp;hellip;</description>
     </item>

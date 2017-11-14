@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on Gembasher Studio </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>www.gembasher.com/post/</link>
+    <link>/post/</link>
     <language>fr</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Wardens of the Amber Cage</title>
-      <link>www.gembasher.com/post/wardens-of-the-amber-cage/</link>
+      <link>/post/wardens-of-the-amber-cage/</link>
       <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
       
-      <guid>www.gembasher.com/post/wardens-of-the-amber-cage/</guid>
+      <guid>/post/wardens-of-the-amber-cage/</guid>
       <description>Gembasher studio est une entreprise de création de jeux vidéo se focalisant sur la réalité virtuelle. Nous sommes fiers de vous présenter notre projet de jeu en réalité virtuelle : ‘Wardens of the Amber Cage’.
 C&amp;rsquo;est un jeu d’action coopérative à la première personne. Vous y incarnez les gardiens d&amp;rsquo;une prison extra-dimensionnelle conçue pour retenir les pires fléaux de la réalité.
 Cette experience atteint son plein potentiel avec un casque de réalité virtuelle (actuellement Occulus Rift et HTC Vive) mais peut aussi s&amp;rsquo;appécier sur un écran classique, surtout accompagné.</description>
