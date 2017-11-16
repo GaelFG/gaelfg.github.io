@@ -1,0 +1,60 @@
+body {
+  color: #FFFACD;
+  background-color: #000000;
+}
+
+p {
+  color: #F5D76E;
+}
+
+.post-link .post-title {
+  color: #FFFACD;
+}
+
+.meta, .post-meta {
+  color: #F7CA18;
+}
+
+
+a {
+  color: #F7CA18;
+}
+a:visited {
+    color : #F27927;
+}
+
+a:hover {
+  color: #FFFACD;
+}
+
+.site-header nav a {
+  color: #F7CA18;
+}
+
+.site-header nav a:visited {
+    color : #F27927;
+}
+
+/* Temporaire ? je remet l'opaxcity a 1 plutot que .5 parcequ ca rend degeulasse sinon */
+.pagination .disabled {
+    opacity: 1;
+}
+
+/* les boutons post anciens tet plus recents */
+.pagination a, .pagination .disabled {
+  background-color: #201000;
+  border-color: #F7CA18;
+  color: #F7CA18;
+}
+
+footer, footer .wrap {
+  background-color: #201000;
+  color: #F7CA18;
+  border-color: #F7CA18;
+}
+
+.site-header {
+  background-color: #201000;
+  border-top: thin solid #F7CA18;
+  border-bottom: thin solid #F7CA18;
+}
