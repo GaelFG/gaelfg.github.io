@@ -1,0 +1,109 @@
+// out: ./gembasher-custom.css, sourcemap: false, compress: true
+@blanc_vrai: #FFFFFF;
+@blanc_purulent: #D0D0D0;
+@jaune_pale_texte: #D0D0D0;
+@jaune_pipi: #F7CA18;
+@marron_colique: #201000;
+@noir_ame: #080808;
+
+
+body {
+  color: @jaune_pale_texte;
+  background-color: @noir_ame;
+}
+
+p {
+  color: @jaune_pale_texte;
+}
+
+h1 {
+  color: @blanc_vrai;
+}
+
+h2 {
+  color: @jaune_pipi;
+}
+
+em {
+  color: @jaune_pipi;
+}
+
+.post-link .post-title {
+  color: lighten(@jaune_pale_texte, 80%);
+}
+
+.meta, .post-meta, .post-author {
+  color: @jaune_pipi;
+}
+
+a {
+  color: #d14a08;
+  border-bottom: 1px solid #d14a08
+}
+
+a:visited {
+    color : #aa360d;
+    border-bottom: 1px solid #aa360d
+}
+
+a:hover {
+  color: @blanc_vrai;
+  border-bottom: 1px solid @blanc_vrai;
+}
+
+.mt2 {
+  margin-bottom: 1rem;
+}
+.site-header nav a {
+  color: #d14a08;
+  border-bottom: 1px solid #d14a08;
+}
+
+.site-header nav a:link {
+    color : #d14a08;
+    border-bottom: 1px solid #d14a08;
+}
+
+.site-header nav a:visited {
+    color : #d14a08;
+    border-bottom: 1px solid #d14a08;
+}
+
+.site-header nav a:hover {
+    color : @blanc_vrai;
+    border-bottom: 1px solid @blanc_vrai;
+}
+
+/* Temporaire ? je remet l'opaxcity a 1 plutot que .5 parcequ ca rend degeulasse sinon */
+.pagination .disabled {
+    opacity: 1;
+}
+
+/* les boutons post anciens tet plus recents */
+.pagination a, .pagination .disabled {
+  background-color: @marron_colique;
+  border-color: @jaune_pipi;
+  color: @jaune_pipi;
+}
+
+footer, footer .wrap {
+  background-color: @marron_colique;
+  color: @jaune_pipi;
+  border-color: @jaune_pipi;
+}
+
+.site-header {
+  background-color: @marron_colique;
+  border-top: thin solid @jaune_pipi;
+  border-bottom: thin solid @jaune_pipi;
+}
+
+/* Les cartouches de titre */
+.py2 {
+  /*
+    padding-left: 2rem;
+    border: thin solid @jaune_pipi;
+    background-color: @marron_colique;
+  */
+    color: @blanc_vrai;
+}
