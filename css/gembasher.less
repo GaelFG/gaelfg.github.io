@@ -6,6 +6,9 @@
 @marron_colique: #201000;
 @noir_ame: #080808;
 
+@lien_pas_visite: #FF7008;
+@lien_deja_visite: #d14a08;
+
 
 body {
   color: @jaune_pale_texte;
@@ -37,13 +40,13 @@ em {
 }
 
 a {
-  color: #d14a08;
-  border-bottom: 1px solid #d14a08
+  color: @lien_pas_visite;
+  border-bottom: 1px solid @lien_pas_visite;
 }
 
 a:visited {
-    color : #aa360d;
-    border-bottom: 1px solid #aa360d
+    color : @lien_deja_visite;
+    border-bottom: 1px solid @lien_deja_visite;
 }
 
 a:hover {
@@ -54,19 +57,30 @@ a:hover {
 .mt2 {
   margin-bottom: 1rem;
 }
+
+.site-header a {
+  color: @lien_pas_visite;
+  border-bottom: 1px solid @lien_pas_visite;
+}
+
+.site-header a:visited {
+  color:@lien_deja_visite;
+  border-bottom: 1px solid @lien_deja_visite;
+}
+
 .site-header nav a {
-  color: #d14a08;
-  border-bottom: 1px solid #d14a08;
+  color: @lien_pas_visite;
+  border-bottom: 1px solid @lien_pas_visite;
 }
 
 .site-header nav a:link {
-    color : #d14a08;
-    border-bottom: 1px solid #d14a08;
+    color : @lien_pas_visite;
+    border-bottom: 1px solid @lien_pas_visite;
 }
 
 .site-header nav a:visited {
-    color : #d14a08;
-    border-bottom: 1px solid #d14a08;
+    color : @lien_deja_visite;
+    border-bottom: 1px solid @lien_deja_visite;
 }
 
 .site-header nav a:hover {

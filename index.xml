@@ -7,32 +7,55 @@
     <language>fr</language>
     
     
-    <updated>Mon, 13 Nov 2017 18:34:02 &#43;0000</updated>
+    <updated>Thu, 23 Nov 2017 18:34:02 &#43;0000</updated>
     
     <item>
-      <title>Wardens of the Amber Cage</title>
-      <link>/post/wardens-of-the-amber-cage/</link>
-      <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
+      <title>Foire aux questions</title>
+      <link>/faq/</link>
+      <pubDate>Thu, 23 Nov 2017 18:34:02 &#43;0000</pubDate>
       
-      <guid>/post/wardens-of-the-amber-cage/</guid>
-      <description>Nous sommes fiers de vous présenter notre projet de jeu en réalité virtuelle : ‘Wardens of the Amber Cage’.
-C&amp;rsquo;est un jeu d’action coopérative à la première personne. Vous y incarnez les gardiens d&amp;rsquo;une prison extra-dimensionnelle conçue pour retenir les pires fléaux de la réalité.
-Cette experience atteint son plein potentiel avec un casque de réalité virtuelle (actuellement Occulus Rift et HTC Vive) mais peut aussi s&amp;rsquo;appécier sur un écran classique, surtout accompagné.</description>
+      <guid>/faq/</guid>
+      <description>Quels périphériques de contrôle sont supportés ?
+Le jeu est conçu pour être joué au gamepad (pour l&amp;rsquo;instant il est configuré à par défaut pour les manettes xbox 360, il est possible de mapper n&amp;rsquo;importe quel pad) en VR. Il est également possible de joueur en utilisant les controleurs standards Roomscale des deux casques VR supportés. Il faut dans ce cas la viser en pointant avec le contrôleur dans la direction désirée.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Téléchargement</title>
+      <link>/downloads/</link>
+      <pubDate>Thu, 23 Nov 2017 18:34:02 &#43;0000</pubDate>
+      
+      <guid>/downloads/</guid>
+      <description>Wardens of the Amber Cage Alpha
+Nous mettons actuellement à disposition gratuite le prototype du jeu. Il supporte le jeu en VR et sur écran standard ainsi que le mode multijoueurs. Pour savoir comment lancer une partie en mode multijoueurs veuillez consulter la section de la faq dédiée.
+Télécharger la version PC 64 bits</description>
+    </item>
+    
+    <item>
+      <title>À Propos de nous</title>
       <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <pubDate>Thu, 23 Nov 2017 18:34:02 &#43;0000</pubDate>
       
       <guid>/about/</guid>
-      <description>À propos de nous Gembasher studio est une entreprise de création de jeux vidéo se focalisant sur la réalité virtuelle.
-Programmation : Gaël Fenet-Garde
-Clement Lebrun
-Son : Guillaume Garroustet
-Graphismes : Bitgem
-Communication : Alaric
-En cours de rédaction &amp;hellip;</description>
+      <description>Gembasher studio est une entreprise toulousaine de création de jeux vidéo se focalisant sur la réalité virtuelle. Elle se concentre actuellement sur le développement de leur premier titre : Wardens of the Amber Cage.</description>
+    </item>
+    
+    <item>
+      <title>Guide première utilisation</title>
+      <link>/guide/</link>
+      <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
+      
+      <guid>/guide/</guid>
+      <description>Faire une première partie en solo  Lancer le jeu, cliquer sur &amp;lsquo;New game&amp;rsquo;, apparaître dans une petite salle, sortir en en suivant la piste lumineuse au sol, passer la porte noire après la salle des statues, progresser en suivant la lumiere sans mourir, battre le roi squelette, passer la porte derrière lui, fin de la démonstration.  Instruction pour le multijoueur à venir.
+Capacité des avatars Attaque principale :</description>
+    </item>
+    
+    <item>
+      <title>Ouverture du site</title>
+      <link>/post/website_opening/</link>
+      <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
+      
+      <guid>/post/website_opening/</guid>
+      <description>Nous sommes heureux de pouvoir ouvrir notre site web et présenter notre projet au public.</description>
     </item>
     
     <item>
@@ -43,27 +66,6 @@ En cours de rédaction &amp;hellip;</description>
       <guid>/contact/</guid>
       <description>gembasher@protonmail.com
 En cours de rédaction &amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/downloads/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>/downloads/</guid>
-      <description>Téléchargement Wardens of the Amber Cage Alpha
-Nous mettons actuellement à disposition gratuite le prototype du jeu. Il supporte le jeu en VR et sur écran standard ainsi que le mode multijoueurs. Pour savoir comment lancer une partie en mode multijoueurs veuillez consulter la section de la faq dédiée.
-Télécharger la version PC 64 bits</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>/faq/</guid>
-      <description>Foire aux questions Quels périphériques de contrôle sont supportés ?
-Le jeu est conçu pour être joué au gamepad (pour l&amp;rsquo;instant il est configuré à par défaut pour les manettes xbox 360, il est possible de mapper n&amp;rsquo;importe quel pad) en VR. Il est également possible de joueur en utilisant les controleurs standards Roomscale des deux casques VR supportés. Il faut dans ce cas la viser en pointant avec le contrôleur dans la direction désirée.</description>
     </item>
     
   </channel>
