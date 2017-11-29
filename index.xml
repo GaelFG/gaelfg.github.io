@@ -15,11 +15,12 @@
       <pubDate>Thu, 23 Nov 2017 18:34:02 &#43;0000</pubDate>
       
       <guid>/faq/</guid>
-      <description>Je me pose une question qui n&amp;rsquo;est pas évoquée ici, comment vous contacter ?
-Si vous ne trouvez pas la réponse dans cette F.A.Q. vous pouvez nous rejoindre sur notre salon Discord.
-Nous sommes également joignable par mail à l&amp;rsquo;adresse gembasher@protonmail.com.
+      <description>Sommaire Section générale
+Section jeu à plusieurs joueurs
+Section réalité virtuelle
+Section contact
 Section générale Quels périphériques de contrôle sont supportés ?
-Le jeu est conçu pour être joué au gamepad (pour l&amp;rsquo;instant il est configuré à par défaut pour les manettes xbox 360, il est possible de mapper n&amp;rsquo;importe quel pad) en VR.</description>
+Wardens of the Amber Cage est conçu pour être joué au gamepad en réalité virtuelle. Il est configuré par défaut pour les manettes xbox 360. Il est possible de mapper n&amp;rsquo;importe quel pad. La visée se fait avec la direction de la tête. Un petit temps d&amp;rsquo;adaptation peut être nécessaire si c&amp;rsquo;est votre premier jeu du genre.</description>
     </item>
     
     <item>
@@ -29,7 +30,7 @@ Le jeu est conçu pour être joué au gamepad (pour l&amp;rsquo;instant il est c
       
       <guid>/downloads/</guid>
       <description>Wardens of the Amber Cage Alpha
-Nous mettons actuellement à disposition gratuite le prototype du jeu. Il supporte le jeu en VR et sur écran standard ainsi que le mode multijoueurs. Pour savoir comment lancer une partie en mode multijoueurs veuillez consulter la section de la faq dédiée.
+Nous mettons actuellement à disposition gratuite le prototype du jeu. Il supporte le jeu en réalité virtuelle (VR) et sur écran standard ainsi que le mode multijoueur. Pour savoir comment lancer une partie en mode multijoueur veuillez consulter la section correspondante de la F.A.Q..
 Télécharger la version PC 64 bits</description>
     </item>
     
@@ -48,11 +49,14 @@ Télécharger la version PC 64 bits</description>
       <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
       
       <guid>/guide/</guid>
-      <description>Utilisation Si c&amp;rsquo;est la première fois que vous jouez, nous vous conseillons de suivre les étapes suivantes (le jeu est pour l&amp;rsquo;instant dépourvu de tutoriaux internes) :
+      <description>Sommaire Section utilisation
+Section combat
+Section liste des commandes
+Section jeu en groupe
+Utilisation Si c&amp;rsquo;est la première fois que vous jouez, nous vous conseillons de suivre les étapes suivantes (le jeu est pour l&amp;rsquo;instant dépourvu de tutoriaux internes) :
 Tout d&amp;rsquo;abord lancez le jeu.
 Paramétrage spécifique à la réalité virtuelle :
-Ensuite prenez le temps de paramétrer ce qui doit l&amp;rsquo;être pour jouer dans les meilleures conditions possibles.
-Si vous souhaitez jouer en VR, il faut modifier les paramètres dans les options.</description>
+Ensuite prenez le temps de paramétrer ce qui doit l&amp;rsquo;être pour jouer dans les meilleures conditions possibles.</description>
     </item>
     
     <item>
