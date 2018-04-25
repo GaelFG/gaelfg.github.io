@@ -3,7 +3,7 @@
   <channel>
       <title>Wardens of the Amber Cage on Gembasher Studio </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>www.gembasher.com/tags/wardens-of-the-amber-cage/</link>
+    <link>http://www.gembasher.com/tags/wardens-of-the-amber-cage/</link>
     <language>en</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Downloads</title>
-      <link>www.gembasher.com/downloads/</link>
+      <link>http://www.gembasher.com/downloads/</link>
       <pubDate>Mon, 23 Apr 2018 10:34:02 &#43;0000</pubDate>
       
-      <guid>www.gembasher.com/downloads/</guid>
+      <guid>http://www.gembasher.com/downloads/</guid>
       <description>Wardens of the Amber Cage Alpha
 Here is the current free public single player game prototype. It support both Virtual Reality and standard screen modes.
 Note : Multiplayer sessions are currently disabled (but should be back in a few weeks).
@@ -24,19 +24,19 @@ Download the Windows 64 bits Build</description>
     
     <item>
       <title>About Us</title>
-      <link>www.gembasher.com/about/</link>
+      <link>http://www.gembasher.com/about/</link>
       <pubDate>Thu, 23 Nov 2017 18:34:02 &#43;0000</pubDate>
       
-      <guid>www.gembasher.com/about/</guid>
+      <guid>http://www.gembasher.com/about/</guid>
       <description>Gembasher Studio is a french video game studio based on Toulouse focusing on Virtual Reality games. We are currently working on our first public project : Warden of the Amber Cage.</description>
     </item>
     
     <item>
       <title>Frequently Asked Questions</title>
-      <link>www.gembasher.com/faq/</link>
+      <link>http://www.gembasher.com/faq/</link>
       <pubDate>Thu, 23 Nov 2017 18:34:02 &#43;0000</pubDate>
       
-      <guid>www.gembasher.com/faq/</guid>
+      <guid>http://www.gembasher.com/faq/</guid>
       <description>Table of contents General
 Multiplayer
 Virtual Reality
@@ -48,10 +48,10 @@ If you play on a flat screen you can either use a mouse and a keyboard or a game
     
     <item>
       <title>Guide Wardens of the Amber Cage</title>
-      <link>www.gembasher.com/guide/</link>
+      <link>http://www.gembasher.com/guide/</link>
       <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
       
-      <guid>www.gembasher.com/guide/</guid>
+      <guid>http://www.gembasher.com/guide/</guid>
       <description>Table of Contents First Use Guide
 Combat Guide
 User Inputs Guide
@@ -65,10 +65,10 @@ If you want to play with a Virtual Reality headset, you must setup the game opti
     
     <item>
       <title>Website opening</title>
-      <link>www.gembasher.com/post/website_opening/</link>
+      <link>http://www.gembasher.com/post/website_opening/</link>
       <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
       
-      <guid>www.gembasher.com/post/website_opening/</guid>
+      <guid>http://www.gembasher.com/post/website_opening/</guid>
       <description>We are proud to open this website and begin the public presentation of our project. We hope you to be as enthousiast as us :).</description>
     </item>
     
