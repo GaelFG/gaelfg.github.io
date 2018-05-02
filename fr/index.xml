@@ -7,7 +7,16 @@
     <language>en</language>
     
     
-    <updated>Thu, 23 Nov 2017 18:34:02 &#43;0000</updated>
+    <updated>Wed, 02 May 2018 18:34:02 &#43;0000</updated>
+    
+    <item>
+      <title>Alpha Build 2</title>
+      <link>http://www.gembasher.com/fr/post/alpha_build_02/</link>
+      <pubDate>Wed, 02 May 2018 18:34:02 &#43;0000</pubDate>
+      
+      <guid>http://www.gembasher.com/fr/post/alpha_build_02/</guid>
+      <description>Une nouvelle verion corrigeant quelques bugs gênants est disponible sur la page des téléchargements !</description>
+    </item>
     
     <item>
       <title>Foire aux questions</title>
@@ -20,7 +29,8 @@ Section jeu à plusieurs joueurs
 Section réalité virtuelle
 Section contact
 Section générale Quels périphériques de contrôle sont supportés ?
-Wardens of the Amber Cage est conçu pour être joué au gamepad en réalité virtuelle. Il est configuré par défaut pour les manettes xbox 360. Il est possible de mapper n&amp;rsquo;importe quel pad. La visée se fait avec la direction de la tête. Un petit temps d&amp;rsquo;adaptation peut être nécessaire si c&amp;rsquo;est votre premier jeu du genre.</description>
+Wardens of the Amber Cage est configuré par défaut pour les manettes xbox 360. Il est possible de mapper n&amp;rsquo;importe quel pad. La visée se fait avec la direction de la tête. Un petit temps d&amp;rsquo;adaptation peut être nécessaire si c&amp;rsquo;est votre premier jeu du genre.
+Il est possible de jouer au clavier et à la souris si on joue sur un écran standard.</description>
     </item>
     
     <item>
@@ -30,8 +40,7 @@ Wardens of the Amber Cage est conçu pour être joué au gamepad en réalité vi
       
       <guid>http://www.gembasher.com/fr/downloads/</guid>
       <description>Wardens of the Amber Cage Alpha
-Nous mettons actuellement à disposition gratuite le prototype du jeu. Il supporte le jeu en réalité virtuelle (VR) et sur écran standard. Le mode multijoueur est temporairement désactivé. Pour savoir comment lancer une partie en mode multijoueur veuillez consulter la section correspondante de la F.A.Q..
-Télécharger la version PC 64 bits</description>
+Nous mettons actuellement à disposition gratuite le prototype du jeu. Il supporte le jeu en réalité virtuelle (VR) et sur écran standard. Version Alpha 2 (02/05/2018) Télécharger la version PC 64 bits</description>
     </item>
     
     <item>
@@ -66,16 +75,6 @@ Ensuite prenez le temps de paramétrer ce qui doit l&amp;rsquo;être pour jouer 
       
       <guid>http://www.gembasher.com/fr/post/website_opening/</guid>
       <description>Nous sommes heureux de pouvoir ouvrir notre site web et présenter notre projet au public.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://www.gembasher.com/fr/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.gembasher.com/fr/contact/</guid>
-      <description>gembasher@protonmail.com
-En cours de rédaction &amp;hellip;</description>
     </item>
     
   </channel>
