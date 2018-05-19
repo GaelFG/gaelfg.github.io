@@ -1,1 +1,86 @@
-body{color:#D0D0D0;background-color:#080808}p{color:#D0D0D0}h1{color:#FFFFFF}h2{color:#F7CA18}em{color:#F7CA18}.post-link .post-title{color:#fff}.meta,.post-meta,.post-author{color:#F7CA18}a{color:#FF7008;border-bottom:1px solid #FF7008}a:visited{color:#d14a08;border-bottom:1px solid #d14a08}a:hover{color:#FFFFFF;border-bottom:1px solid #FFFFFF}.mt2{margin-bottom:1rem}.site-header a{color:#FF7008;border-bottom:1px solid #FF7008}.site-header a:visited{color:#d14a08;border-bottom:1px solid #d14a08}.site-header nav a{color:#FF7008;border-bottom:1px solid #FF7008}.site-header nav a:link{color:#FF7008;border-bottom:1px solid #FF7008}.site-header nav a:visited{color:#d14a08;border-bottom:1px solid #d14a08}.site-header nav a:hover{color:#FFFFFF;border-bottom:1px solid #FFFFFF}.pagination .disabled{opacity:1}.pagination a,.pagination .disabled{background-color:#201000;border-color:#F7CA18;color:#F7CA18}footer,footer .wrap{background-color:#201000;color:#F7CA18;border-color:#F7CA18}.site-header{background-color:#201000;border-top:thin solid #F7CA18;border-bottom:thin solid #F7CA18}.py2{color:#FFFFFF}.measure{max-width:72rem}
+body {
+ color:#D0D0D0;
+ background-color:#080808;
+   text-align: justify;
+}
+p {
+ color:#D0D0D0
+}
+h1 {
+ color:#FFFFFF
+}
+h2 {
+ color:#F7CA18
+}
+em {
+ color:#F7CA18
+}
+.post-link .post-title {
+ color:#fff
+}
+.meta,.post-meta,.post-author {
+ color:#F7CA18
+}
+a {
+ color:#FF7008;
+ border-bottom:1px solid #FF7008
+}
+a:visited {
+ color:#d14a08;
+ border-bottom:1px solid #d14a08
+}
+a:hover {
+ color:#FFFFFF;
+ border-bottom:1px solid #FFFFFF
+}
+.mt2 {
+ margin-bottom:1rem
+}
+.site-header a {
+ color:#FF7008;
+ border-bottom:1px solid #FF7008
+}
+.site-header a:visited {
+ color:#d14a08;
+ border-bottom:1px solid #d14a08
+}
+.site-header nav a {
+ color:#FF7008;
+ border-bottom:1px solid #FF7008
+}
+.site-header nav a:link {
+ color:#FF7008;
+ border-bottom:1px solid #FF7008
+}
+.site-header nav a:visited {
+ color:#d14a08;
+ border-bottom:1px solid #d14a08
+}
+.site-header nav a:hover {
+ color:#FFFFFF;
+ border-bottom:1px solid #FFFFFF
+}
+.pagination .disabled {
+ opacity:1
+}
+.pagination a,.pagination .disabled {
+ background-color:#201000;
+ border-color:#F7CA18;
+ color:#F7CA18
+}
+footer,footer .wrap {
+ background-color:#201000;
+ color:#F7CA18;
+ border-color:#F7CA18
+}
+.site-header {
+ background-color:#201000;
+ border-top:thin solid #F7CA18;
+ border-bottom:thin solid #F7CA18
+}
+.py2 {
+ color:#FFFFFF
+}
+.measure {
+ max-width:72rem
+}
