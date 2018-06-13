@@ -35,7 +35,7 @@ Here is the current free public prototype. It support both Virtual Reality and s
       <pubDate>Thu, 23 Nov 2017 18:34:02 &#43;0000</pubDate>
       
       <guid>http://www.gembasher.com/about/</guid>
-      <description>Gembasher Studio is a french video game studio based on Toulouse focusing on Virtual Reality games. We are currently working on our first public project : Warden of the Amber Cage.
+      <description>Gembasher Studio is a French video game studio based on Toulouse focusing on Virtual Reality games. We are currently working on our first public project : Wardens of the Amber Cage.
 Gembasher Studio Design/Developement Marc Debout
 Gaël Fenet-Garde
 Clément Lebrun
@@ -59,8 +59,8 @@ Animations Explosive</description>
 Multiplayer
 Virtual Reality
 Contact Us
-General What input peripherals are supported ?
-Wardens of the Amber Cage is designed to be played in virtual reality with a gamepad. Default setup works with xbox360 gamepad. You aim with your head orientation. You will need some time to aim correctly if you have no prior experience.
+General What input devices are supported?
+Wardens of the Amber Cage is designed to be played in virtual reality with a gamepad. Default setup works with Xbox 360 gamepad. You aim with your head orientation. You will need some time to aim correctly if you have no prior experience.
 If you play on a flat screen you can either use a mouse and a keyboard or a gamepad.</description>
     </item>
     
@@ -74,7 +74,7 @@ If you play on a flat screen you can either use a mouse and a keyboard or a game
 Combat Guide
 User Inputs Guide
 Multiplayer Game Guide
-First Use We advise you to read theses instructions before you first playing session as the game currently lack in-game tutorial :
+First Use We advise you to read these instructions before you first playing session as the game currently lack in-game tutorial :
 Launch the game.
 Virtual Reality Only Setup :
 If you want to play with a Virtual Reality headset, you must setup the game options. Check the field &amp;lsquo;Play in VR Mode&amp;rsquo; to switch on Virtual Reality display mode.</description>
