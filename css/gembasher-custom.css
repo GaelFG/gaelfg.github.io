@@ -88,3 +88,14 @@ footer,footer .wrap {
 th, td {
   text-align: center;
 }
+
+.prev, .next {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color:#201000;
+    color:#F7CA18
+}
