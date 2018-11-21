@@ -19,17 +19,6 @@
     </item>
     
     <item>
-      <title>Downloads</title>
-      <link>http://www.gembasher.com/downloads/</link>
-      <pubDate>Mon, 23 Apr 2018 10:34:02 &#43;0000</pubDate>
-      
-      <guid>http://www.gembasher.com/downloads/</guid>
-      <description>Wardens of the Amber Cage Alpha
-Here is the current free public prototype. It support both Virtual Reality and standard screen modes.
-   </description>
-    </item>
-    
-    <item>
       <title>About Us</title>
       <link>http://www.gembasher.com/about/</link>
       <pubDate>Thu, 23 Nov 2017 18:34:02 &#43;0000</pubDate>
@@ -39,29 +28,7 @@ Here is the current free public prototype. It support both Virtual Reality and s
 Gembasher Studio Design/Developement Marc Debout
 Gaël Fenet-Garde
 Clément Lebrun
-Sound Design Guillaume Garroustet
-Modeling/Animation Manuel Milhau
-Additionals Assets Music Dan Farley
-Models/Textures Bitgem
-Mana Station
-Busina
-Particles FX Kenneth &amp;laquo;Archanor&amp;raquo; Foldal Moe
-Animations Explosive</description>
-    </item>
-    
-    <item>
-      <title>Frequently Asked Questions</title>
-      <link>http://www.gembasher.com/faq/</link>
-      <pubDate>Thu, 23 Nov 2017 18:34:02 &#43;0000</pubDate>
-      
-      <guid>http://www.gembasher.com/faq/</guid>
-      <description>Table of contents General
-Multiplayer
-Virtual Reality
-Contact Us
-General What input devices are supported?
-Wardens of the Amber Cage is designed to be played in virtual reality with a gamepad. Default setup works with Xbox 360 gamepad. You aim with your head orientation. You will need some time to aim correctly if you have no prior experience.
-If you play on a flat screen you can either use a mouse and a keyboard or a gamepad.</description>
+Sound Design Guillaume Garroustet</description>
     </item>
     
     <item>
@@ -70,14 +37,7 @@ If you play on a flat screen you can either use a mouse and a keyboard or a game
       <pubDate>Mon, 13 Nov 2017 18:34:02 &#43;0000</pubDate>
       
       <guid>http://www.gembasher.com/guide/</guid>
-      <description>Table of Contents First Use Guide
-Combat Guide
-User Inputs Guide
-Multiplayer Game Guide
-First Use We advise you to read these instructions before you first playing session as the game currently lack in-game tutorial :
-Launch the game.
-Virtual Reality Only Setup :
-If you want to play with a Virtual Reality headset, you must setup the game options. Check the field &amp;lsquo;Play in VR Mode&amp;rsquo; to switch on Virtual Reality display mode.</description>
+      <description>User inputs    Use Keybord/Mouse Xbox360 Pad Oculus Touch VIVE Wand     Move Forward       Move Backward       Strafe Left       Strafe Right       Rotate Toward Left       Rotate Toward Right       Open Options Menu       Main Attack       Secondary Attack       Teleport Spell       Stunning Nova        Combat Guide Main attack :</description>
     </item>
     
     <item>

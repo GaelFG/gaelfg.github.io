@@ -84,3 +84,7 @@ footer,footer .wrap {
 .measure {
  max-width:72rem
 }
+
+th, td {
+  text-align: center;
+}
