@@ -99,3 +99,7 @@ th, td {
     background-color:#201000;
     color:#F7CA18
 }
+
+.vertical-spacer {
+  min-height: 5rem;
+}
