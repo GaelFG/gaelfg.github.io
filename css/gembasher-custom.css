@@ -1,13 +1,19 @@
 body {
  color:#D0D0D0;
  background-color:#080808;
-   text-align: justify;
+ background-image: url("/images/screenshots/wotac_site_background.jpg");
+ text-align: justify;
+ 
+ background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 p {
  color:#D0D0D0
 }
 h1 {
- color:#FFFFFF
+ color:#F7CA18
 }
 h2 {
  color:#F7CA18
@@ -102,4 +108,10 @@ th, td {
 
 .vertical-spacer {
   min-height: 5rem;
+}
+
+.content-block {
+  padding: 0rem 1rem 1rem 1rem;
+  background-color: rgba(0.03, 0.03, 0.03, 0.8);
+  border-radius: 1rem;
 }
