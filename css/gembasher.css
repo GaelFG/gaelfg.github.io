@@ -1,0 +1,41 @@
+body {
+color:#D0D0D0;
+background-color:#080808;
+background-image: url("../images/screenshots/wotac_site_background-min.jpg");
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+p {
+ color:#D0D0D0
+}
+h1,h2,em {
+ color:#F7CA18
+}
+a,a.nav-link,a:visited ,a.nav-link:visited {
+ color:#F7CA18;
+ border-bottom:1px solid #F7CA18;
+}
+a:hover, a.nav-link:hover  {
+ color:#FFFFFF;
+ border-bottom:1px solid #FFFFFF;
+}
+th, td {
+  text-align: center;
+}
+.prev, .next {
+    background-color:#201000;
+    color:#F7CA18
+}
+.container {
+  background-color: rgba(0.03, 0.03, 0.03, 0.8);
+  border-radius: 1rem;
+}
+.input-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+a.img-link {
+  border-style: none;
+}
