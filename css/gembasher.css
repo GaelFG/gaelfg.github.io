@@ -32,10 +32,11 @@ th, td {
   background-color: rgba(0.03, 0.03, 0.03, 0.8);
   border-radius: 1rem;
 }
-.input-table {
-  margin-left: auto;
-  margin-right: auto;
+.table td, .table th,.table thead th {
+	border-color: #F7CA18;
 }
 a.img-link {
   border-style: none;
 }
+
+
